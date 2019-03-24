@@ -1,17 +1,17 @@
-Dataleverandør	Datasett	Lisenskode	DokumentasjonUrl	GeonorgeUrl	GeonorgeUrl
-Artsdaatabanken	RL	CC BY 4.0		https://kartkatalog.geonorge.no/metadata/artsdatabanken/artskart-rodlistearter-wfs/a9e500fb-c188-4601-81b4-072c36a60c8c	
-Artsdaatabanken	NN-LA	CC BY 4.0			
-Artsdaatabanken	AR	CC BY 4.0		https://kartkatalog.geonorge.no/metadata/artsdatabanken/artskart-api/42b59f02-2a61-4d4e-b0bd-358e26094a4f	
-Kartverket	NN-NA-BS-8	NLOD		https://kartkatalog.geonorge.no/metadata/kartverket/hoydereferansemodell-nn2000/71a73064-59a5-4f03-a0b8-fa5c649c3fc9	
-Kartverket	NN-NA-I	CC BY 4.0		https://kartkatalog.geonorge.no/metadata/kartverket/n50-kartdata/ea192681-d039-42ec-b1bc-f3ce04c189ac	
-Kartverket	AO	CC BY 4.0		https://kartkatalog.geonorge.no/metadata/kartverket/administrative-enheter-kommuner/041f1e6e-bdbc-4091-b48f-8a5990f3cc5b	
-Miljødirektoratet	NN-NA	NLOD			
-Miljødirektoratet	VV	NLOD		https://kartkatalog.geonorge.no/metadata/miljodirektoratet/naturvernomrader-wfs/ec9972b4-0d3e-4492-bf35-5bca2f7143d1	
-Miljødirektoratet	NN-NA-BS	NLOD			
-NIBIO	NN-NA-I	NLOD		https://kartkatalog.geonorge.no/metadata/norsk-institutt-for-biookonomi/arealressurskart-ar50/4bc2d1e0-f693-4bf2-820d-c11830d849a3	
-NINA	NN-NA-BS-6SE	NLOD	https://github.com/Artsdatabanken/nin-data/blob/master/Natur_i_Norge/Natursystem/Beskrivelsessystem/Regional_naturvariasjon/Bioklimatisk_sone_og_seksjon/Erikstad%20Regional%20variasjon%20Naturtyper%20i%20Norge%20Bakgrunnsdokument%208%202009.pdf		
-NINA	NN-NA-BS-6SO	CC BY 4.0	https://www.nina.no/archive/nina/pppbasepdf/Rapporter%20i%20ekstern%20rapportserie/2009/Erikstad%20Regional%20variasjon%20Naturtyper%20i%20Norge%20Bakgrunnsdokument%208%202009.pdf		
-NGU	NN-NA-LKM-KA	NLOD		https://kartkatalog.geonorge.no/metadata/norges-geologiske-undersokelse/berggrunn-n250/7c39be66-77b6-4b74-b58d-53b6bee90067	
-NGU	NN-NA-LKM-BK-A	NLOD		https://kartkatalog.geonorge.no/metadata/norges-geologiske-undersokelse/berggrunn-n250/7c39be66-77b6-4b74-b58d-53b6bee90067	
-NGU	NN-NA-LKM-S3	NLOD		https://kartkatalog.geonorge.no/metadata/norges-geologiske-undersokelse/bunnsedimenter-kornstorrelse-oversikt/39c357fc-8c56-49e0-a6ba-3e434d62a585	
-SSB	AO	CC BY 4.0		https://kartkatalog.geonorge.no/metadata/kartverket/administrative-enheter-kommuner/041f1e6e-bdbc-4091-b48f-8a5990f3cc5b	
+Dataleverandør,Datasett,Lisenskode,DokumentasjonUrl,GeonorgeUrl
+Artsdaatabanken,RL,CC BY 4.0,,
+Artsdaatabanken,NN-LA,CC BY 4.0,,
+Artsdaatabanken,AR,CC BY 4.0,,
+Kartverket,NN-NA-BS-8,NLOD,,
+Kartverket,NN-NA-I,CC BY 4.0,,
+Kartverket,AO,CC BY 4.0,,
+Miljødirektoratet,NN-NA,NLOD,,
+Miljødirektoratet,VV,NLOD,,
+Miljødirektoratet,NN-NA-BS,NLOD,,
+NIBIO,NN-NA-I,NLOD,,
+NINA,NN-NA-BS-6SE,NLOD,https://github.com/Artsdatabanken/nin-data/blob/master/Natur_i_Norge/Natursystem/Beskrivelsessystem/Regional_naturvariasjon/Bioklimatisk_sone_og_seksjon/Erikstad%20Regional%20variasjon%20Naturtyper%20i%20Norge%20Bakgrunnsdokument%208%202009.pdf,
+NINA,NN-NA-BS-6SO,CC BY 4.0,https://www.nina.no/archive/nina/pppbasepdf/Rapporter%20i%20ekstern%20rapportserie/2009/Erikstad%20Regional%20variasjon%20Naturtyper%20i%20Norge%20Bakgrunnsdokument%208%202009.pdf,
+NGU,NN-NA-LKM-KA,NLOD,,
+NGU,NN-NA-LKM-BK-A,NLOD,,
+NGU,NN-NA-LKM-S3,NLOD,,
+SSB,AO,CC BY 4.0,,
