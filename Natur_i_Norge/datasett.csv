@@ -1,17 +1,17 @@
-"Dataleverandør","Datasett","Lisenskode","DokumentasjonUrl","KildedataUrl","GeonorgeUrl"
-"Artsdaatabanken","RL","bare","https://a.b.c/"
-"Artsdaatabanken","NN-LA","eksempel","https://a.b.c/"
-"Artsdaatabanken","AR","CC BY 2.0","https://a.b.c/"
-"Kartverket","NN-NA-BS-8","CC BY 2.0","https://a.b.c/"
-"Kartverket","NN-NA-I","CC BY 2.0","https://a.b.c/"
-"Kartverket","AO","PD","https://a.b.c/"
-"Miljødirektoratet","NN-NA","CC BY 2.0","https://a.b.c/"
-"Miljødirektoratet","VV","CC BY 2.0","https://a.b.c/"
-"Miljødirektoratet","NN-NA-BS","CC BY 2.0","https://a.b.c/"
-"NIBIO","NN-NA-I","CC BY 2.0","https://a.b.c/"
-"NINA","NN-NA-BS-6SE","NLOD 1.5","https://github.com/Artsdatabanken/kildedata-nin/blob/master/Natur_i_Norge/Natursystem/Beskrivelsessystem/Regional_naturvariasjon/Bioklimatisk_sone_og_seksjon/Erikstad%20Regional%20variasjon%20Naturtyper%20i%20Norge%20Bakgrunnsdokument%208%202009.pdf"
-"NINA","NN-NA-BS-6SO","CC BY 2.0","https://www.nina.no/archive/nina/pppbasepdf/Rapporter%20i%20ekstern%20rapportserie/2009/Erikstad%20Regional%20variasjon%20Naturtyper%20i%20Norge%20Bakgrunnsdokument%208%202009.pdf"
-"NGU","NN-NA-LKM-KA","CC BY 2.0","https://a.b.c/"
-"NGU","NN-NA-LKM-BK-A","CC BY 2.0","https://a.b.c/"
-"NGU","NN-NA-LKM-S3","CC BY 2.0","https://a.b.c/"
-"SSB","AO","CC BY 2.0","https://a.b.c/"
+"Dataleverandør","Datasett","Lisenskode","DokumentasjonUrl","GeonorgeUrl","GeonorgeUrl"
+"Artsdaatabanken","RL","bare",,,
+"Artsdaatabanken","NN-LA","eksempel",,,
+"Artsdaatabanken","AR","CC BY 2.0",,,
+"Kartverket","NN-NA-BS-8","CC BY 2.0",,,
+"Kartverket","NN-NA-I","CC BY 2.0",,,
+"Kartverket","AO","PD",,,
+"Miljødirektoratet","NN-NA","CC BY 2.0",,,
+"Miljødirektoratet","VV","CC BY 2.0",,,
+"Miljødirektoratet","NN-NA-BS","CC BY 2.0",,,
+"NIBIO","NN-NA-I","CC BY 2.0",,,
+"NINA","NN-NA-BS-6SE","NLOD 1.5","https://github.com/Artsdatabanken/kildedata-nin/blob/master/Natur_i_Norge/Natursystem/Beskrivelsessystem/Regional_naturvariasjon/Bioklimatisk_sone_og_seksjon/Erikstad%20Regional%20variasjon%20Naturtyper%20i%20Norge%20Bakgrunnsdokument%208%202009.pdf",,
+"NINA","NN-NA-BS-6SO","CC BY 2.0","https://www.nina.no/archive/nina/pppbasepdf/Rapporter%20i%20ekstern%20rapportserie/2009/Erikstad%20Regional%20variasjon%20Naturtyper%20i%20Norge%20Bakgrunnsdokument%208%202009.pdf",,
+"NGU","NN-NA-LKM-KA","CC BY 2.0",,,
+"NGU","NN-NA-LKM-BK-A","CC BY 2.0",,,
+"NGU","NN-NA-LKM-S3","CC BY 2.0",,,
+"SSB","AO","CC BY 2.0",,,
