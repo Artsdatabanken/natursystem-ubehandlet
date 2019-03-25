@@ -9,9 +9,11 @@
 "Miljødirektoratet","VV","NLOD","https://kartkatalog.geonorge.no/metadata/miljodirektoratet/naturvernomrader-wfs/ec9972b4-0d3e-4492-bf35-5bca2f7143d1"
 "Miljødirektoratet","NN-NA-BS","NLOD",
 "NIBIO","NN-NA-I","NLOD","https://kartkatalog.geonorge.no/metadata/norsk-institutt-for-biookonomi/arealressurskart-ar50/4bc2d1e0-f693-4bf2-820d-c11830d849a3"
-"NINA","NN-NA-BS-6SE","NLOD",
-"NINA","NN-NA-BS-6SO","CC BY 4.0","https://www.nina.no/archive/nina/pppbasepdf/Rapporter%20i%20ekstern%20rapportserie/2009/Erikstad%20Regional%20variasjon%20Naturtyper%20i%20Norge%20Bakgrunnsdokument%208%202009.pdf"
+"NINA","NN-NA-BS-6SE","",""
+"NINA","NN-NA-BS-6SO","",""
 "NGU","NN-NA-LKM-KA","NLOD","https://kartkatalog.geonorge.no/metadata/norges-geologiske-undersokelse/berggrunn-n250/7c39be66-77b6-4b74-b58d-53b6bee90067"
 "NGU","NN-NA-LKM-BK-A","NLOD","https://kartkatalog.geonorge.no/metadata/norges-geologiske-undersokelse/berggrunn-n250/7c39be66-77b6-4b74-b58d-53b6bee90067"
-"NGU","NN-NA-LKM-S3","NLOD","https://kartkatalog.geonorge.no/metadata/norges-geologiske-undersokelse/bunnsedimenter-kornstorrelse-oversikt/39c357fc-8c56-49e0-a6ba-3e434d62a585"
+"NGU","NN-NA-LKM-S3-E","NLOD","https://kartkatalog.geonorge.no/metadata/norges-geologiske-undersokelse/bunnsedimenter-kornstorrelse-oversikt/39c357fc-8c56-49e0-a6ba-3e434d62a585"
+"NGU","NN-NA-LKM-S3-F","NLOD","https://kartkatalog.geonorge.no/metadata/norges-geologiske-undersokelse/bunnsedimenter-kornstorrelse-oversikt/39c357fc-8c56-49e0-a6ba-3e434d62a585"
+"NGU","NN-NA-LKM-S3-S","NLOD","https://kartkatalog.geonorge.no/metadata/norges-geologiske-undersokelse/bunnsedimenter-kornstorrelse-oversikt/39c357fc-8c56-49e0-a6ba-3e434d62a585"
 "SSB","AO","CC BY 4.0","https://kartkatalog.geonorge.no/metadata/kartverket/administrative-enheter-kommuner/041f1e6e-bdbc-4091-b48f-8a5990f3cc5b"
