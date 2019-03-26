@@ -14,11 +14,11 @@
       "nb": "Natursystem"
     }
   },
-  "NN-NA-TI": { "tittel": { "nb": "Typeinndeling" } },
+  "NN-NA-TI": { "tittel": { "nb": "Typeinndeling" }, "sortering": 1 },
   "NN-NA-BS": {
     "infoUrl": "https://artsdatabanken.no/Pages/179723",
     "ingress": "Variasjon som ikke kan beskrives ved hjelp av uLKM er sortert på ni grupper av Kilder til variasjon. Variasjonen langs disse beskrives ved bruk av variabler som er definert så -esist som mulig, men som er delt i  klasser eller trinn uten noen direkte referanse til hvor mye variasjon i artssammensetning de gir opphav til.",
-    "sortering": 2,
+    "sortering": 3,
     "tittel": {
       "nb": "Beskrivelsessystem"
     }
