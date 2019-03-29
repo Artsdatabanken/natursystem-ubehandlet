@@ -25,8 +25,7 @@
     "ingress": "I hvor stor grad landskapet er dominert av innsjøer."
   },
   "NN-LA-MP": {
-    "tittel": { "nb": "Menneskelig påvirkning" },
-    "skjul": true,
+    "tittel": { "nb": "Arealbrukspreg" },
     "type": "flagg",
     "relasjon": [
       {
@@ -59,7 +58,7 @@
     "infoUrl": ""
   },
   "NN-LA-MP-KL": {
-    "tittel": { "nb": "Kulturlandskap" },
+    "tittel": { "nb": "Arealbrukspreget landskapstype" },
     "farge": "#fc8d59",
     "sortering": 2,
     "ingress": "Kulturlandskap er landskap som i større eller mindre grad er påvirka av mennesker.",
