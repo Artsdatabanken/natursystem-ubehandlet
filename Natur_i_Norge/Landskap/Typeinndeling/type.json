@@ -4,7 +4,17 @@
     "ingress": "Landskapstypeinndelingen skiller mellom ulike typer av øko-landskap; enheter som kjennetegnes ved likheter i store landformer og terrengvariasjon, som bestemmer hvilke landskapsdel- og natursystem-typer som forekommer der.",
     "infoUrl": "https://www.artsdatabanken.no/Pages/10"
   },
-  "NN-LA-TI": { "tittel": { "nb": "Typeinndeling" }, "sortering": 1 },
+  "NN-LA-TI": {
+    "tittel": { "nb": "Typeinndeling" },
+    "sortering": 1,
+    "relasjon": [
+      {
+        "kant": "Arealbrukspreg",
+        "kantRetur": "Landskapstyper",
+        "kode": "NN-LA-TI-AP"
+      }
+    ]
+  },
   "NN-LA-KLG": { "tittel": { "nb": "Landskapsgradient" }, "sortering": 2 },
   "NN-LA-KLG-BP": {
     "type": "gradient",
@@ -24,15 +34,10 @@
     "type": "gradient",
     "ingress": "I hvor stor grad landskapet er dominert av innsjøer."
   },
-  "NN-LA-MP": {
+  "NN-LA-TI-AP": {
     "tittel": { "nb": "Arealbrukspreg" },
     "type": "flagg",
     "relasjon": [
-      {
-        "kode": "NN-LA",
-        "kant": "definerer",
-        "kantRetur": "deles inn etter"
-      },
       {
         "kode": "NN-LA-KLG-AI",
         "kant": "Landskapsgradient",
@@ -50,14 +55,14 @@
       }
     ]
   },
-  "NN-LA-MP-NL": {
+  "NN-LA-TI-AP-NL": {
     "tittel": { "nb": "Naturlandskap" },
     "farge": "#91cf60",
     "sortering": 1,
     "ingress": "Naturlandskap brukes om landskap hvor de naturlige, økologiske prosesser er dominerende og hvor kulturpåvirkningen er liten og ubetydelig. Det kan være inngrep eller spor av inngrep, men økosystemet er lite endret.",
     "infoUrl": ""
   },
-  "NN-LA-MP-KL": {
+  "NN-LA-TI-AP-AL": {
     "tittel": { "nb": "Arealbrukspreget landskapstype" },
     "farge": "#fc8d59",
     "sortering": 2,
