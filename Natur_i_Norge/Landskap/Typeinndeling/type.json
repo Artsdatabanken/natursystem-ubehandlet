@@ -6,7 +6,7 @@
   },
   "NN-LA-TI": {
     "tittel": { "nb": "Typeinndeling" },
-    "skala_km2: [4, 20],
+    "skala_km2": [4, 20],
     "sortering": 1,
     "relasjon": [
       {
