@@ -141,54 +141,76 @@
     },
     "type": "gradient"
   },
+  "NN-NA-TI-HT-KG-GI0": {
+    "tittel": {
+      "nb": "0",
+      "farge": "#ff0000"
+    }
+  },
   "NN-NA-TI-HT-KG-GI1": {
     "tittel": {
-      "nb": "1"
+      "nb": "1",
+      "farge": "#ff9933"
     }
   },
   "NN-NA-TI-HT-KG-GI2": {
     "tittel": {
-      "nb": "2"
+      "nb": "2",
+      "farge": "#ffcc66"
     }
   },
   "NN-NA-TI-HT-KG-GI3": {
     "tittel": {
-      "nb": "3"
+      "nb": "3",
+      "farge": "#ffff66"
     }
   },
   "NN-NA-TI-HT-KG-GI4": {
     "tittel": {
-      "nb": "4"
+      "nb": "4",
+      "farge": "#b0ff61"
     }
   },
   "NN-NA-TI-HT-KG-GI5": {
     "tittel": {
-      "nb": "5"
+      "nb": "5",
+      "farge": "#66ff33"
+    }
+  },
+  "NN-NA-TI-HT-KG0": {
+    "tittel": {
+      "nb": "0",
+      "farge": "#ff0000"
     }
   },
   "NN-NA-TI-HT-KG1": {
     "tittel": {
-      "nb": "1"
+      "nb": "1",
+      "farge": "#ff9933"
     }
   },
   "NN-NA-TI-HT-KG2": {
     "tittel": {
-      "nb": "2"
+      "nb": "2",
+      "farge": "#ffcc66"
     }
   },
   "NN-NA-TI-HT-KG3": {
     "tittel": {
-      "nb": "3"
+      "nb": "3",
+      "farge": "#ffff66"
     }
   },
   "NN-NA-TI-HT-KG4": {
     "tittel": {
-      "nb": "4"
+      "nb": "4",
+      "farge": "#b0ff61"
     }
   },
   "NN-NA-TI-HT-KG5": {
     "tittel": {
-      "nb": "5"
+      "nb": "5",
+      "farge": "#66ff33"
     }
   },
   "NN-NA-TI-I": {
