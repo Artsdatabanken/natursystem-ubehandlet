@@ -6,6 +6,7 @@
   },
   "NN-LA-TI": {
     "tittel": { "nb": "Typeinndeling" },
+    "ingress": "Større geografisk område med enhetlig visuelt preg, skapt av enhetlig dominans av store landformer og kjennetegnet ved karakteristisk fordeling av landformer, natursystemkomplekser, natursystemer og andre landskapselementer",
     "skala_km2": [4, 20],
     "sortering": 1,
     "relasjon": [
