@@ -133,85 +133,100 @@
       "nb": "Kunnskapsgrunnlag om hovedtypen generelt"
     },
     "type": "gradient",
-    "farge": "#5ae"
+    "farge": "#5ae",
+    "infoUrl": "https://www.artsdatabanken.no/Files/14541/NiNs_systemkjerne__teori,_prinsipper_og_inndelingskriterier_(versjon_2.1.0)"
   },
   "NN-NA-TI-HT-KG-GI": {
     "tittel": {
       "nb": "Kunnskapsgrunnlag om grunntypeinndelingen"
     },
-    "type": "gradient"
+    "type": "gradient",
+    "infoUrl": "https://www.artsdatabanken.no/Files/14541/NiNs_systemkjerne__teori,_prinsipper_og_inndelingskriterier_(versjon_2.1.0)"
   },
+
   "NN-NA-TI-HT-KG-GI0": {
     "tittel": {
-      "nb": "0",
-      "farge": "#ff0000"
-    }
+      "nb": "Ingen"
+    },
+    "ingress": "Kunnskap mangler fullstendig",
+    "farge": "#ff0000"
   },
   "NN-NA-TI-HT-KG-GI1": {
     "tittel": {
-      "nb": "1",
-      "farge": "#ff9933"
-    }
+      "nb": "Svært svak"
+    },
+    "ingress": "Spekulasjon uten basis i observasjoner eller empiriske data",
+    "farge": "#ff9933"
   },
   "NN-NA-TI-HT-KG-GI2": {
     "tittel": {
-      "nb": "2",
-      "farge": "#ffcc66"
-    }
+      "nb": "Svak"
+    },
+    "farge": "#ffcc66",
+    "ingress": "observasjon, ikke vitenskapelig dokumentert"
   },
   "NN-NA-TI-HT-KG-GI3": {
     "tittel": {
-      "nb": "3",
-      "farge": "#ffff66"
-    }
+      "nb": "Akseptabel"
+    },
+    "farge": "#ffff66",
+    "ingress": "observasjon eller vitenskapelige data, vitenskapelig dokumentert"
   },
   "NN-NA-TI-HT-KG-GI4": {
     "tittel": {
-      "nb": "4",
-      "farge": "#b0ff61"
-    }
+      "nb": "God"
+    },
+    "farge": "#b0ff61",
+    "ingress": "relevante empiriske data finnes, som er tilfredsstillende analysert"
   },
   "NN-NA-TI-HT-KG-GI5": {
     "tittel": {
-      "nb": "5",
-      "farge": "#66ff33"
-    }
+      "nb": "Sikker"
+    },
+    "farge": "#66ff33",
+    "ingress": "uttømmende og relevante empiriske data finnes, som er gjennomanalysert"
   },
   "NN-NA-TI-HT-KG0": {
     "tittel": {
-      "nb": "0",
-      "farge": "#ff0000"
-    }
+      "nb": "Ingen"
+    },
+    "ingress": "Kunnskap mangler fullstendig",
+    "farge": "#ff0000"
   },
   "NN-NA-TI-HT-KG1": {
     "tittel": {
-      "nb": "1",
-      "farge": "#ff9933"
-    }
+      "nb": "Svært svak"
+    },
+    "ingress": "Spekulasjon uten basis i observasjoner eller empiriske data",
+    "farge": "#ff9933"
   },
   "NN-NA-TI-HT-KG2": {
     "tittel": {
-      "nb": "2",
-      "farge": "#ffcc66"
-    }
+      "nb": "Svak"
+    },
+    "farge": "#ffcc66",
+    "ingress": "observasjon, ikke vitenskapelig dokumentert"
   },
   "NN-NA-TI-HT-KG3": {
     "tittel": {
-      "nb": "3",
-      "farge": "#ffff66"
-    }
+      "nb": "Akseptabel"
+    },
+    "farge": "#ffff66",
+    "ingress": "observasjon eller vitenskapelige data, vitenskapelig dokumentert"
   },
   "NN-NA-TI-HT-KG4": {
     "tittel": {
-      "nb": "4",
-      "farge": "#b0ff61"
-    }
+      "nb": "God"
+    },
+    "farge": "#b0ff61",
+    "ingress": "relevante empiriske data finnes, som er tilfredsstillende analysert"
   },
   "NN-NA-TI-HT-KG5": {
     "tittel": {
-      "nb": "5",
-      "farge": "#66ff33"
-    }
+      "nb": "Sikker"
+    },
+    "farge": "#66ff33",
+    "ingress": "uttømmende og relevante empiriske data finnes, som er gjennomanalysert"
   },
   "NN-NA-TI-I": {
     "farge": "hsl(180, 43%, 93%)"
