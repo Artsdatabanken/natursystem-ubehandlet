@@ -3,13 +3,13 @@
 "Artsdatabanken","NN-LA","CC BY 4.0",
 "Artsdatabanken","AR","CC BY 4.0","https://kartkatalog.geonorge.no/metadata/artsdatabanken/artskart-api/42b59f02-2a61-4d4e-b0bd-358e26094a4f"
 "Kartverket","NN-NA-BS-8","NLOD","https://kartkatalog.geonorge.no/metadata/kartverket/hoydereferansemodell-nn2000/71a73064-59a5-4f03-a0b8-fa5c649c3fc9"
-"Kartverket","NN-NA-I","CC BY 4.0","https://kartkatalog.geonorge.no/metadata/kartverket/n50-kartdata/ea192681-d039-42ec-b1bc-f3ce04c189ac"
+"Kartverket","NN-NA-TI-I","CC BY 4.0","https://kartkatalog.geonorge.no/metadata/kartverket/n50-kartdata/ea192681-d039-42ec-b1bc-f3ce04c189ac"
 "Kartverket","AO","CC BY 4.0","https://kartkatalog.geonorge.no/metadata/kartverket/administrative-enheter-kommuner/041f1e6e-bdbc-4091-b48f-8a5990f3cc5b"
 "Wikipedia","AO","CC BY SA 3.0","https://commons.wikimedia.org/wiki/Category:PD_Coa_Norway"
 "Miljødirektoratet","NN-NA","NLOD",
 "Miljødirektoratet","VV","NLOD","https://kartkatalog.geonorge.no/metadata/miljodirektoratet/naturvernomrader-wfs/ec9972b4-0d3e-4492-bf35-5bca2f7143d1"
 "Miljødirektoratet","NN-NA-BS","NLOD",
-"NIBIO","NN-NA-I","NLOD","https://kartkatalog.geonorge.no/metadata/norsk-institutt-for-biookonomi/arealressurskart-ar50/4bc2d1e0-f693-4bf2-820d-c11830d849a3"
+"NIBIO","NN-NA-TI-I","NLOD","https://kartkatalog.geonorge.no/metadata/norsk-institutt-for-biookonomi/arealressurskart-ar50/4bc2d1e0-f693-4bf2-820d-c11830d849a3"
 "NINA","NN-NA-BS-6SE","",""
 "NINA","NN-NA-BS-6SO","",""
 "NGU","NN-NA-LKM-KA","NLOD","https://kartkatalog.geonorge.no/metadata/norges-geologiske-undersokelse/berggrunn-n250/7c39be66-77b6-4b74-b58d-53b6bee90067"
