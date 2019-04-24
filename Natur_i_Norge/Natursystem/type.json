@@ -72,8 +72,8 @@
   },
   "NN-NA-BS-6SO": {
     "farge": "rgb(253,194,111)",
-    "infoUrl": "https://www.artsdatabanken.no/Pages/137992",
-    "ingress": "Bioklimatiske soner (BS) beskriver variasjon på land (og i ferskvann) relatert til varme. Alle organismer stiller krav til minstestemperatur for å overleve og for å reprodusere, og temperaturkravet varierer sterkt mellom arter. Alle arter har også en øvre toleransegrense for varme – blir det for varmt, stopper livsfunksjonene opp. Denne varmeøkoklinen er derfor på global basis en av de aller viktigste økoklinene, som forklarer arters utbredelse, breddegradsbestemt fordeling av klimasoner (tropisk, subtropisk, temperert, arktisk) og dominerende livsform (lauvtrær, bartrær, skogløse områder).",
+    "infoUrl": "https://www.artsdatabanken.no/Pages/181901",
+    "ingress": "Bioklimatiske soner (6SO), inkludert bioklimatiske soner i Arktis (6SX) er på global basis en av de aller viktigste regionale gradientkompleksene, som forklarer arters utbredelse, breddegradsbestemt fordeling av klimasoner (tropisk, subtropisk, temperert, arktisk) og dominerende livsform (lauvtrær, bartrær, områder uten trær).",
     "kart": {
       "format": {
         "raster_gradient": {
