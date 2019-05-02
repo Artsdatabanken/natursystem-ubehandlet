@@ -1,6 +1,8 @@
 {
   "NN-NA-BS-6SO-1": {
-    "tittel": { "nb": "Lavalpin" },
+    "tittel": {
+      "nb": "Boreonemoral"
+    },
     "farge": "rgb(253,194,111)",
     "sortering": 1,
     "intervall": {
@@ -12,7 +14,9 @@
     }
   },
   "NN-NA-BS-6SO-2": {
-    "tittel": { "nb": "Nordboreal" },
+    "tittel": {
+      "nb": "Sørboreal"
+    },
     "farge": "rgb(253,250,64)",
     "sortering": 2,
     "intervall": {
@@ -36,7 +40,9 @@
     }
   },
   "NN-NA-BS-6SO-4": {
-    "tittel": { "nb": "Sørboreal" },
+    "tittel": {
+      "nb": "Nordboreal"
+    },
     "farge": "rgb(167,253,88)",
     "sortering": 4,
     "intervall": {
@@ -48,7 +54,9 @@
     }
   },
   "NN-NA-BS-6SO-5": {
-    "tittel": { "nb": "Boreonemoral" },
+    "tittel": {
+      "nb": "Lavalpin"
+    },
     "farge": "rgb(51,153,253)",
     "sortering": 5,
     "intervall": {
