@@ -39853,7 +39853,7 @@
       }
     },
     {
-      "Navn": "kysttilkntttet",
+      "Navn": "kysttilknyttet",
       "Kode": {
         "Id": "KY-a",
         "Definisjon": "https://webtjenester.artsdatabanken.no/NiN/v2b/variasjon/HentKode/KY-a"
