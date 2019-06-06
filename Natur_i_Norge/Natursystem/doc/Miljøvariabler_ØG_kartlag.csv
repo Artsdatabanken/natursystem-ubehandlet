@@ -1,0 +1,123 @@
+,,Navn (Kilde til variasjon),Egnethet til ØG,Kartstatus,Kartformat,Kilder,Kort beskrivelse av produksjon,"Kommentarer (fremtidige muligheter, nye datasett, begrensninger etc.)"
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),AS,Arid terrestrisk salinitet,?,kartlegges?,,,,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),BK,Berggrunn med avvikende kjemisk sammensetning,X,,,Bergrunn/NGU,Oversettelse mot bergarter,1. Versjon klart med ultramafisk (Basistrinn BK-a)
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),DL,Dybderelatert lyssvekking,X,modellerbart,,HI/NIVA/NGU,,Testdata i utvikling i regi av Mareano (NGU)
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),DM,Dybderelatert miljøstabilisering,?,modellerbart?,,,,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),ER,Erosjonsutsatthet,?,kartlegging dekningsgrad!,,NVE,,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),FK,Ferskvannsforekomster med avvikende kjemisk sammensetning,?,,,,,Miljødata for ferskvann? Vanndirektivet?
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),GS,Grottebetinget skjerming,X?,20 m kote modell,høydemodell,PCAterreng,skalaavhening,Generell vurdering for variabler knyttet til helning. Usikkert mtp. Denne som er spissere
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),HF,Helningsbetinget forstyrrelsesintensitet,X,20 m kote modell,høydemodell,PCAterreng,skalaavhening,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),HI,Hevdintensitet,X,kartlegging,AR5,S&L,sette sammen diverse kart fra S&L,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),HR,Semi-naturlig hevdregime,?,kartlegging,AR5?,Beitekart/GAB?,,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),HS,Hovedtypespesifikk inndeling,,,,,,Må behandles typevis
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),HU,Humusinnhold (vannfarge),X,Vanndirektivet?,,Vanndirektivet/NINA/NIVA,,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),IF,Isbetinget forstyrrelse,?,,,,,Modellering ferskvann. Kyst?
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),IO,Innhold av organisk materiale,X?,kartlegging + modellering,"Høydemodeløler, Jordsmonnskart, m.m.",Flere,,"Generell variabel som kan generere flere kartlag ihhv. Ferskvann, marint, terrestrisk"
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),JF,Jordflyt,X?,modellerbart,temp/snødekke,MI/Etzmuller,,"Vurdering for frostpåvirkning generelt, må vurderes mer spesifikt"
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),JV,Jordvarmeinnflytelse,X,kartlagt,,NP,Jan Mayen/midtatlantiske rygg/Trollkildene på Svalbard,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),KA,Kalkinnhold,X,,,Bergrunn/NGU,Oversettelse mot bergarter,1. Versjon klar for ØG
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),KI,Kildevannspåvirkning,?,kartleggbart/knapt modellerbart,,kildedatabase??,NGU?,"Mer generell vurdering, må vurderes mer spesifikt"
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),KO,Konnektivitet,?,,modellerbart?,ferskvannsdata/NVE?,,Modellering av om vannsystemer henger sammen eller er isolerte.
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),KT,Kildetype,?,,usikkert,,,Må vurdere eksplisitt på trinn. Svært forskjellige kildetyper i terrestrisk/ferskvann mot marine. Marine kilder mest aktuelle her?
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),KY,Kysttilknytning,?,,modellerbart?,,,To karttema: kystvann + havvann/atlantisk vann. Må utredes.
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),LA,Langsom primær suksesjon,X?,kartlegge 1750 morener/grove modeller,,NINA/Lars - flyfoto,"Bredatlas over Norge, Strandvoller, geologisk litteratur","Spesifikke vurderinger, mer generell nå - må gjennomgås på nytt"
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),LK,Langsom sekundær suksesjon på korallrev-bunn,?,kartleggingsøvelse?,,HI,,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),MB,Markbearbeiding,?,,,Landbruksdata?,,Spesifikk til oppdyrking - må vurderes
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),MF,Myrflatepreg,?,modellerbar?,,,,Må vurderes
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),MX,"Semi-naturlig mark/bunn uten hevdpreg, preget av menneskebetinget forstyrrelse",?,,,,,Omfattende og kompleks variabel som omfatter mange typer forstyrrelse. Må vurderes mer detaljert.
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),NG,Naturlig gjødsling,?,,,Landbruksdata?,,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),OF,Oppfrysing,X?,modellerbart,temp/snødekke,MI/Etzmuller,,"Vurdering for frostpåvirkning generelt, må vurderes mer spesifikt"
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),OM,Oksygenmangel,?,modellerbart/kartlagt?,,Fjordatabasen/landskapskart/Trine,Mdir?,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),OR,Overrisling,?,,,,,Småskala variasjon - usikker
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),PF,Permafrost,X?,modellerbart,temp/snødekke,MI/Etzmuller,,"Vurdering for frostpåvirkning generelt, må vurderes mer spesifikt"
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),RU,Rasutsatthet,?,modellerbart/gradientkart eksisterer,skredfarekart,NVE,Art NVE?,www.skrednett.no
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),SA,Marin salinitet,X,,,NIVA,,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),SE,Sedimentbasert forstyrrelse,?,,,NVE?,,Må vurderes mer eksplisitt
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),SF,Saltanriking av mark i fjærebeltet,?,,,,,"Vurdering for marin salinitet generelt, må vurderes mer spesifikt"
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),SH,Spesiell mark/bunn preget av historisk miljøstress eller forstyrrelse,?,,,"AR5, andre kartdata?",,Må vurderes mer eksplisitt
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),SM,Størrelsesrelatert miljøvariabilitet (i vannsystemer),X,fra grunnkart,,"AR5, N50, andre kartdata?",,"Størrelsesklasser på vannforekomster - OK, dybde mer uklart?"
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),SP,Slåttemarkspreg,?,kartlegging,AR5?,Beitekart/GAB?,,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),SS,Sandstabilisering,?,kartlegging,,,,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),SU,Skredutsatthet,?,modellerbart/gradientkart eksisterer,skredfarekart,NVE,Art NVE?,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),SV,Snødekkebetinget vekstsesongreduksjon,x?,,Satellitt?,,,NB - Senteniel4Nature-prosjektet (NINA+Norsk regnesentral)
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),SX,"Sterkt endret mark/bunn uten hevdpreg, preget av menneskebetinget forstyrrelse",?,,,,,Omfattende og kompleks variabel som omfatter mange typer forstyrrelse. Må vurderes mer detaljert.
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),SY,Sterk endring av vannmasser,?,,,,,Miljødata for ferskvann? Vanndirektivet?
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),S3,Sedimentsortering,X ,kartlegges/modellbart?,høydemodell/kvartærgeologisk kart/jordartskart,Mareano/NGU,"Mange dimensjoner, marin og terrestrisk del",Ny inndeling av variabel i NiN2 - må utredes nærmere
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),,Erosjonsmotstand (i sorterte sedimenter),X ,kartlegges/modellbart?,høydemodell/kvartærgeologisk kart/jordartskart,Mareano/NGU,"Mange dimensjoner, marin og terrestrisk del",Ny inndeling av variabel i NiN2 - må utredes nærmere
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),,Finmaterialinnhold (i sorterte sedimenter),X ,kartlegges/modellbart?,høydemodell/kvartærgeologisk kart/jordartskart,Mareano/NGU,"Mange dimensjoner, marin og terrestrisk del",Ny inndeling av variabel i NiN2 - må utredes nærmere
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),,Spesielle sorterte sedimenter,X ,kartlegges/modellbart?,høydemodell/kvartærgeologisk kart/jordartskart,Mareano/NGU,"Mange dimensjoner, marin og terrestrisk del",Ny inndeling av variabel i NiN2 - må utredes nærmere
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),,Dominerende kornstørrelsesklasse,X ,kartlegges/modellbart?,høydemodell/kvartærgeologisk kart/jordartskart,Mareano/NGU,"Mange dimensjoner, marin og terrestrisk del",
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),TE,Torvproduserende evne,?,,,,,Må vurderes mer eksplisitt
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),TU,Turbiditet,X,kartleggbart /modellerbart,,Vanndirektivet/bre og leire,,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),TV,Tørrleggingsvarighet,X?,modellbart; Flo/fjære-kart?,vannbudsjett/flomkart,NVE/NIVA/HI?,,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),UE,Uttørkingseksponering,X?,modellerbart,høydemodell/vanndatabase,MI,,"Variabelen er noe endret i NiN2, og må gjennomgås"
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),UF,Uttørkingsfare,X,modellbart,høydemodell,PCAterreng/jordartskart/PCAklima,,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),VF,Vannpåvirkningssintensitet,X,modellerbart,Flomregimer + Hav,NVE +H//NIVA/NINA,,"Variabelen er noe endret i NiN2, og må gjennomgås. Mer kompleks nå, må deles opp?"
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),VI,Vindutsatthet,X?,overordnet skala,Jordartskart,NGU,modellering?,
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),VM,Vannmetning,X,,,NIBIO,Satellitt,NB - prosjekt i regi av NIBIO og NSF i skog
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),VR,Vannpåvirkningsregime,X,modellbart/modellert,,HI/NIVA/NINA,,Bølgeenergi + tidevannsstrømmer
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),VS,Vannsprutintensitet,X?,modellerbart,høydemodell/vanndatabase,MI,,Del av fossesprøytsone-prosjekt?
+LOKALE KOMPLEKSE MILJØVARIABLER (LKM),VT,Vanntilførsel,?,kartleggbart/knapt modellerbart,,kildedatabase??,NGU?,"Mer generell vurdering, må vurderes mer spesifikt"
+ARTSSAMMENSETNING,1AE,Enkeltartssammensetning,x?,,Artskart?,"NIBIO, artsmodellering",,Må vurderes mer eksplisitt
+ARTSSAMMENSETNING,1AG,Artsgruppesammensetning,x?,,,NIBIO,,Kun vurdert for treslag
+ARTSSAMMENSETNING,1AR,Relativ del-artsgruppesammensetning,x,,,AR5,,Kun vurdert for treslag
+GEOLOGISK SAMMENSETNING,2BE,Bergartsforekomst,x,klart?,,NGU,,Jf. Oppdatert bergartsinndeling fra NGU
+GEOLOGISK SAMMENSETNING,2MI,Mineralforekomst,x?,,,NGU,,Vurderes av NGU
+GEOLOGISK SAMMENSETNING,2JA,Jordartsforekomst,x?,,,NGU/NIBIO,,Må vurderes mer eksplisitt
+GEOLOGISK SAMMENSETNING,2JM,Jordsmonnforekomst,x?,,,NGU/NIBIO,,Må vurderes mer eksplisitt
+GEOLOGISK SAMMENSETNING,2FO,Fossilforekomst,?,,,,,Finnes systematisk kartfesting?
+LANDFORM,3AB,Avsetningsformer knyttet til breer,X,avhengig av kartlegging,morene og randavsetninger/jortskart,jordartskart og nasjonalatlas,,
+LANDFORM,3AR,Avsetningsformer knyttet til rennende vann,?,modellering/avhengig av kartlegging,,N/Elvedeltabasen,Viser de store elvedeltar/modellere elvesletter/elvevifter,
+LANDFORM,3BF,Breformer,X,kartlagt,,NVE/v Østrem,Breatlaset,
+LANDFORM,3EB,Erosjonsformer knyttet til breer,X?,modellering/avhengig av kartlegging,,NINA,"Nye landskapsinndeling, modellering under oljeleting",
+LANDFORM,3EL,Elveløpsformer,X,modellering/avhengig av kartlegging,,NINA,"meandrer, kroksjøer, fosser, forgrende elveløp",
+LANDFORM,3ER,Erosjonsformer knyttet til rennende vann,?,modellering/avhengig av kartlegging,,NINA,bekkekløfter/raviner,
+LANDFORM,3FP,Landformer knyttet til frostprosesser,?,avhengig av kartlegging,,"UiO, UiB","Forvitringsblokkmark, kanskje ikke N-Norge, Pingoer kartlagt Liestøl 1969",
+LANDFORM,3IK,Landformer knyttet til jordas indre krefter,X,kartlagt,,,Berentsberg,
+LANDFORM,3KJ,Kjemiske oppløsningsformer,X,kartlagt,,Lauritzen,Grotter,
+LANDFORM,3KP,Landformer knyttet til kystprosesser,X?,avhengig av kartlegging,,Klemsdal?,"Næringskyst, klippekyst",
+LANDFORM,3ML,Landformer knyttet til massebevegelse på land,?,avhengig av kartlegging,,,,
+LANDFORM,3MR,Landformer knyttet til marine strøm- og skredprosesser,?,avhengig av kartlegging,,MAREANO,Eksisterer oversikt over gjel og store ras på kontinentakskråning.,
+LANDFORM,3TO,Torvmarksformer,x?,avhengig av kartlegging,,"Vegetasjonsatlas, Moen",høymyr? Pals.,
+LANDFORM,3VI,Landformer knyttet til vindprosesser: flygesanddyne,?,avhengig av kartlegging,,jordartskart og DEM,Sjekk Klemsdal og flyvesand,
+NATURGITTE OBJEKTER,4DG,Stående død ved (gadder),Uegnet,,,,,
+NATURGITTE OBJEKTER,4DL,Liggende død ved (læger),Uegnet,,,,,
+NATURGITTE OBJEKTER,4RV,Rotvelt,Uegnet,,,,,
+NATURGITTE OBJEKTER,4TG,Gammelt tre,Uegnet,,,,,
+NATURGITTE OBJEKTER,4TL,Tre med spesielt livsmedium,Uegnet,,,,,
+NATURGITTE OBJEKTER,4TS,Trestørrelse,Uegnet,,,,,
+MENNESKESKAPTE OBJEKTER,5KU,Kulturminner,X,,,Askeladden/GAB/N50,,
+MENNESKESKAPTE OBJEKTER,5XG,Annen løs gjenstand,Uegnet,,,,,
+REGIONAL NATURVARIASJON,6HF,Historisk ferskvannsforbindelse mot øst,x,Kartlagt,,,,Må tilrettelegges digitalt
+REGIONAL NATURVARIASJON,6KS,Kystvannssoner,X,Delvis kartlagt,,HI,,"Tilsynelatende klar avgrensing mot fastlands-Norge, men hvordan avgrensingen fortstter i norsk økonomisk sone er uklart."
+REGIONAL NATURVARIASJON,6SE,Bioklimatiske seksjoner,X,PCANorge,,NHM/NINA,,Klar for ØG
+REGIONAL NATURVARIASJON,6SO,Bioklimatiske soner,X,PCANorge,,NHM/NINA,,Klar for ØG
+REGIONAL NATURVARIASJON,6SX,Bioklimatiske soner i Arktis,X,Kartlagt,,UiT,Elvebakk,
+TILSTANDSVARIASJON,7BU,Spor etter bunntråling,X?,,,HI? Fiskeridir,,
+TILSTANDSVARIASJON,7EU,Eutrofiering,X,modellering,,NIVA,Vannforekomster,
+TILSTANDSVARIASJON,7FA,Fremmedartsinnslag,Uegnet,,Artskart,,,Håndteres som egenskaper for arter
+TILSTANDSVARIASJON,7GR,Grøfting,?,kartlegging,,NIBIO?,LIDAR?,
+TILSTANDSVARIASJON,7JB,Jord-bruk (aktuell bruk av jord),?,,,NIBIO?,,
+TILSTANDSVARIASJON,7MG,Miljøgifter og annen forurensning,X,modellering,,MiljøDIrNILU/Steiness,,
+TILSTANDSVARIASJON,7OB,Overbeskatning,Uegnet,,,,Taretråling?,
+TILSTANDSVARIASJON,7RA,Rask suksesjon,X?,kartlegging,AR5/hogstklasser,NIBIO?,Tilgjengelig?,
+TILSTANDSVARIASJON,7SB,Skog-bruk (bruk av tresatt areal),?,,,NIBIO?,,
+TILSTANDSVARIASJON,7SD,Skogbestandsdynamikk,x?,kartlegging,hogstklasser/Naturskog,Ldir/NIBIO,,Må vurderes hva som er tilgjengelig og hva som kan utvikles videre. NB - Naturskog i regi av Ldir.
+TILSTANDSVARIASJON,7SE,Spor etter slitasje og slitasjebetinget erosjon,Uegnet?,,,,,
+TILSTANDSVARIASJON,7SN,Naturlig bestandsreduksjon på tresatt areal,??,,,,Arealdekkende? Deler kanskje?,
+TILSTANDSVARIASJON,7SU,Forsuring,X,modellering,,NILU,,
+TILSTANDSVARIASJON,7TK,Spor etter ferdsel med tunge kjøretøy,??,,,flyfoto/satellitt,,
+TILSTANDSVARIASJON,7UB,Ubalanse mellom trofiske nivåer,Uegnet,,,,Kråkebolle-tareskog?,
+TILSTANDSVARIASJON,7VR,Vassdragsreguleringseffekt,X,tilgjengelig for elver?,,NVE,reguleringsgrad et problem!,
+TERRENGFORMVARIASJON,8TH,Terrenghelning,x?,PCA-terreng?/lidar,,,,Må vurderes eksplisitt
+TERRENGFORMVARIASJON,8TP,Terrengposisjon,x?,PCA-terreng?/lidar,,,,Må vurderes eksplisitt
+TERRENGFORMVARIASJON,8TU,Terrenguro,x?,PCA-terreng?/lidar,,,,Må vurderes eksplisitt
+ROMLIG STRUKTURVARIASJON,9VA,Vannflateareal,Relevans?,Finnes allerede,,,,Arealdata av gitte vannforekomster
+ROMLIG STRUKTURVARIASJON,9VD,Vanndybde,x?,Marint ok? Ferskvann?,,Kartverket?,,Dybdedata for alle vannforekomster (marint og ferskvann)
+Øvrige mulige kartlag,,Kvartærgeologi,,,,,,
+Øvrige mulige kartlag,,Historiske kart,,,,,,
+Øvrige mulige kartlag,,Inngrepskart,,,,,,
+Øvrige mulige kartlag,,Ekstremkart,,,,,,
+Øvrige mulige kartlag,,Ortofoto rådata,,,,,,
+Øvrige mulige kartlag,,Rådata Landsat,,,,,,
+Øvrige mulige kartlag,,Nedbørsdata,,,,,,
