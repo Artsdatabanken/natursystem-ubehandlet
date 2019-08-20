@@ -1,4 +1,102 @@
 {
+  "NN-NA-BS-8TH": {
+    "farge": "#fff",
+    "farge0": "#f33",
+    "kart": {
+      "format": {
+        "raster_gradient": {
+          "intervall": {
+            "normalisertVerdi": [0, 255],
+            "original": [0, 180]
+          },
+          "visning": ["kontinuerlig"]
+        }
+      }
+    },
+    "måleenhet": "°",
+    "ingress": "Vinkelen mellom helningsvektoren og horisontalplanet, beregnet for et målenabolag på 3 × 3 punkter med fokuspunktet i sentrum (verdi for en arealenhet kan angis for et representativt punkt eller beregnes som en funksjon, f.eks. gjennomsnittet eller medianen, av verdier for alle punkter innenfor arealenheten)",
+    "type": "gradient_uten_barn"
+  },
+  "NN-NA-BS-8ER": {
+    "farge": "#fff",
+    "farge0": "#ff0",
+    "palett": [
+      { "level": 0, "color": "#fff" },
+      { "level": 1, "color": "#def" },
+      { "level": 64, "color": "#bbb" },
+      { "level": 128, "color": "#fed" },
+      { "level": 192, "color": "#fff" },
+      { "level": 255, "color": "#def" }
+    ],
+    "kart": {
+      "format": {
+        "raster_gradient": {
+          "intervall": {
+            "normalisertVerdi": [0, 255],
+            "original": [0, 360]
+          },
+          "visning": ["kontinuerlig"]
+        }
+      }
+    },
+    "måleenhet": "°",
+    "ingress": "Himmelretningen som helningsvektoren gjennom et punkt som er representativt for en arealenhet peker i (helningsvektoren er den vektoren gjennom fokuspunktet langs jordoverflata som danner den største vinkelen med horisontalplanet)",
+    "type": "gradient_uten_barn"
+  },
+  "NN-NA-BS-8RR": {
+    "farge": "#fff",
+    "farge0": "#ff0",
+    "kart": {
+      "format": {
+        "raster_gradient": {
+          "intervall": {
+            "normalisertVerdi": [0, 255],
+            "original": [-1000, 10000]
+          },
+          "visning": ["kontinuerlig"]
+        }
+      }
+    },
+    "måleenhet": "m",
+    "ingress": "Høydeforskjellen innenfor et område. Differansen mellom høyeste og laveste punkt innenfor en arealenhet (kan også angis omkring et fokuspunkt i et gitt målenabolag)",
+    "type": "gradient_uten_barn"
+  },
+  "NN-NA-BS-8TU": {
+    "farge": "#fff",
+    "farge0": "#ff0",
+    "kart": {
+      "format": {
+        "raster_gradient": {
+          "intervall": {
+            "normalisertVerdi": [0, 255],
+            "original": [0, 1]
+          },
+          "visning": ["kontinuerlig"]
+        }
+      }
+    },
+    "måleenhet": "indeks",
+    "ingress": "1– |r|, der r er relativ lengde av resultant-enhetsvektoren loddrett på bakkeplanet, beregnet for et målenabolag på 3 × 3 punkter og summert oppfor et område omkring fokuspunktet i sentrum [=vector ruggedness index (VRI)]; 8TU er en indeks for terrenguro som er relativt uavhengig av helningen (Hobson 1972, Sappington et al. 2007); tilgjengelig som skript for arcGIS (http://www.esri.com/arcscripts) (verdi for en arealenhet kan angis for et representativt punkt eller beregnes som en funksjon, f.eks. gjennomsnittet eller medianen, av verdier for alle punkter innenfor arealenheten)",
+    "type": "gradient_uten_barn"
+  },
+  "NN-NA-BS-8TP": {
+    "farge": "#fff",
+    "farge0": "#ff0",
+    "kart": {
+      "format": {
+        "raster_gradient": {
+          "intervall": {
+            "normalisertVerdi": [0, 255],
+            "original": [-1000, 10000]
+          },
+          "visning": ["kontinuerlig"]
+        }
+      }
+    },
+    "måleenhet": "m",
+    "ingress": "Differansen mellom fokuspunktets høyde og gjennomsnittshøyden i et målenabolag på 1 km2 med fokuspunktet i sentrum (verdi for en arealenhet kan angis for et representativt punkt eller beregnes som en funksjon, f.eks. gjennomsnittet eller medianen, av verdier for alle punkter innenfor arealenheten)",
+    "type": "gradient_uten_barn"
+  },
   "NN-NA-BS-6SO-1": {
     "tittel": {
       "nb": "Boreonemoral"
@@ -68,7 +166,8 @@
     }
   },
   "NN-NA-BS-6SE-1": {
-    "tittel": { "nb": "Sterkt oseanisk seksjon (O3)" },
+    "tittel": { "nb": "Sterkt oseanisk seksjon" },
+    "autorkode": "O3",
     "farge": "rgb(50,67,253)",
     "sortering": 1,
     "intervall": {
@@ -80,7 +179,8 @@
     }
   },
   "NN-NA-BS-6SE-2": {
-    "tittel": { "nb": "Klart oseanisk seksjon (O2)" },
+    "tittel": { "nb": "Klart oseanisk seksjon" },
+    "autorkode": "O2",
     "farge": "rgb(104,117,252)",
     "sortering": 2,
     "intervall": {
@@ -92,7 +192,8 @@
     }
   },
   "NN-NA-BS-6SE-3": {
-    "tittel": { "nb": "Svakt oseanisk seksjon (O1)" },
+    "tittel": { "nb": "Svakt oseanisk seksjon" },
+    "autorkode": "O1",
     "farge": "rgb(129,253,244)",
     "sortering": 3,
     "intervall": {
@@ -104,7 +205,8 @@
     }
   },
   "NN-NA-BS-6SE-4": {
-    "tittel": { "nb": "Overgangsseksjon (OC)" },
+    "tittel": { "nb": "Overgangsseksjon" },
+    "autorkode": "OC",
     "farge": "rgb(178,253,247)",
     "sortering": 4,
     "intervall": {
@@ -116,7 +218,8 @@
     }
   },
   "NN-NA-BS-6SE-5": {
-    "tittel": { "nb": "Svakt kontinental seksjon (C1)" },
+    "tittel": { "nb": "Svakt kontinental seksjon" },
+    "autorkode": "C1",
     "farge": "rgb(230,253,253)",
     "sortering": 5,
     "intervall": {
