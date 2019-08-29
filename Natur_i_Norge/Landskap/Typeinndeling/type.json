@@ -135,7 +135,58 @@
     }
   },
   "NN-LA-KLG-VE": {
-    "type": "gradient"
+    "type": "gradient",
+    "kart": {
+      "format": {
+        "raster_gradient": {
+          "intervall": {
+            "normalisertVerdi": [0, 5],
+            "original": [0, 255]
+          },
+          "visning": ["klasser"]
+        }
+      }
+    }
+  },
+  "NN-LA-KLG-VE-1": {
+    "farge": "#5b8943",
+    "intervall": {
+      "minTekst": "under skoggrense",
+      "min": 1,
+      "max": 2,
+      "måleenhet": ""
+    },
+    "normalisertVerdi": [1, 2]
+  },
+  "NN-LA-KLG-VE-2": {
+    "farge": "#aacd65",
+    "intervall": {
+      "minTekst": "hei under skoggrense",
+      "min": 2,
+      "max": 3,
+      "måleenhet": ""
+    },
+    "normalisertVerdi": [2, 3]
+  },
+  "NN-LA-KLG-VE-3": {
+    "farge": "#d8d79e",
+    "intervall": {
+      "minTekst": "hei over skoggrense",
+      "min": 3,
+      "max": 4,
+      "måleenhet": ""
+    },
+    "normalisertVerdi": [3, 4]
+  },
+  "NN-LA-KLG-VE-4": {
+    "farge": "rgb(240,255,240)",
+    "intervall": {
+      "minTekst": "bart fjell over skoggrense",
+      "min": 4,
+      "max": 5,
+      "måleenhet": ""
+    },
+    "normalisertVerdi": [4, 5]
   },
   "NN-LA-KLG-IYK": {
     "type": "gradient"
