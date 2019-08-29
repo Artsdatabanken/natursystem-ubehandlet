@@ -79,7 +79,7 @@
           "visning": ["diskret", "kontinuerlig"],
           "intervall": {
             "original": [0, 13.228172302246],
-            "normalisertVerdi": [0, 255]
+            "normalisertVerdi": [1, 255]
           }
         }
       }
