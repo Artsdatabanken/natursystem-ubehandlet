@@ -20,7 +20,18 @@
   "NN-LA-KLG": { "tittel": { "nb": "Landskapsgradient" }, "sortering": 2 },
   "NN-LA-KLG-BP": {
     "type": "gradient",
-    "ingress": "Om landskapet er dominert av isbre."
+    "ingress": "Om landskapet er dominert av isbre.",
+    "kart": {
+      "format": {
+        "raster_gradient": {
+          "visning": ["diskret"],
+          "intervall": {
+            "original": [0, 1],
+            "normalisertVerdi": [0, 1]
+          }
+        }
+      }
+    }
   },
   "NN-LA-KLG-REIA": {
     "type": "gradient"
@@ -34,6 +45,17 @@
   },
   "NN-LA-KLG-IP": {
     "type": "gradient",
+    "kart": {
+      "format": {
+        "raster_gradient": {
+          "visning": ["diskret"],
+          "intervall": {
+            "original": [0, 12],
+            "normalisertVerdi": [1, 255]
+          }
+        }
+      }
+    },
     "ingress": "I hvor stor grad landskapet er dominert av innsjøer."
   },
   "NN-LA-TI-AP": {
@@ -93,7 +115,7 @@
           "visning": ["diskret", "kontinuerlig"],
           "intervall": {
             "original": [0, 13.228172302246],
-            "normalisertVerdi": [0, 255]
+            "normalisertVerdi": [1, 255]
           }
         }
       }
@@ -189,7 +211,18 @@
     "normalisertVerdi": [4, 5]
   },
   "NN-LA-KLG-IYK": {
-    "type": "gradient"
+    "type": "gradient",
+    "kart": {
+      "format": {
+        "raster_gradient": {
+          "intervall": {
+            "normalisertVerdi": [1, 255],
+            "original": [0, 2.815]
+          },
+          "visning": ["klasser"]
+        }
+      }
+    }
   },
   "NN-LA-KLG-VP": {
     "type": "gradient",
