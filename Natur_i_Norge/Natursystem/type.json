@@ -5,7 +5,8 @@
     "sortering": 1,
     "tittel": {
       "nb": "Natursystem"
-    }
+    },
+    "kart": { "målestokk": 20000 }
   },
   "NN-NA-TI": {
     "tittel": { "nb": "Typeinndeling" },
