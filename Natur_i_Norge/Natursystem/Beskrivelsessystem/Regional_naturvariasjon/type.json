@@ -1,6 +1,6 @@
 {
   "NN-NA-BS-2FO": {
-    "tittel": "Fossilforekomst"
+    "tittel": { "nb": "Fossilforekomst" }
   },
   "NN-NA-BS-8TH": {
     "farge": "#fff",
