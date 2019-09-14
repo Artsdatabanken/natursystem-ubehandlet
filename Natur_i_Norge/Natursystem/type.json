@@ -21,7 +21,9 @@
   },
   "NN-NA-BS": {
     "infoUrl": "https://artsdatabanken.no/Pages/179723",
-    "ingress": "Variasjon som ikke kan beskrives ved hjelp av uLKM er sortert på ni grupper av Kilder til variasjon. Variasjonen langs disse beskrives ved bruk av variabler som er definert så -esist som mulig, men som er delt i  klasser eller trinn uten noen direkte referanse til hvor mye variasjon i artssammensetning de gir opphav til.",
+    "ingress": {
+      "nb": "Variasjon som ikke kan beskrives ved hjelp av uLKM er sortert på ni grupper av Kilder til variasjon. Variasjonen langs disse beskrives ved bruk av variabler som er definert så -esist som mulig, men som er delt i  klasser eller trinn uten noen direkte referanse til hvor mye variasjon i artssammensetning de gir opphav til."
+    },
     "sortering": 3,
     "tittel": {
       "nb": "Beskrivelsessystem"
@@ -29,32 +31,46 @@
   },
   "NN-NA-BS-1": {
     "infoUrl": "https://artsdatabanken.no/Pages/179953",
-    "ingress": "Omfatter «de artene som lever sammen innenfor et gitt område» og beskrives ved å angi hvilke arter som forekommer og eventuelt også deres mengde."
+    "ingress": {
+      "nb": "Omfatter «de artene som lever sammen innenfor et gitt område» og beskrives ved å angi hvilke arter som forekommer og eventuelt også deres mengde."
+    }
   },
   "NN-NA-BS-2": {
     "infoUrl": "https://artsdatabanken.no/Pages/182002",
-    "ingress": "Dette er parallellen til artssammensetning, og omfatter «bergarter, mineraler, jordarter, jordsmonn og eventuelle fossiler som finnes innenfor et gitt område»."
+    "ingress": {
+      "nb": "Dette er parallellen til artssammensetning, og omfatter «bergarter, mineraler, jordarter, jordsmonn og eventuelle fossiler som finnes innenfor et gitt område»."
+    }
   },
   "NN-NA-BS-3": {
     "infoUrl": "https://artsdatabanken.no/Pages/182003",
-    "ingress": "Omfatter «mer eller mindre distinkt terrengform (overflateform på land eller utforming av bunnen i saltvanns- eller ferskvannssystemer) som kan gis en felles karakteristikk på grunnlag av egenskaper som ofte er forårsaket av én enkelt eller en kombinasjon av distinkte landformdannende (geomorfologiske) prosesser»."
+    "ingress": {
+      "nb": "Omfatter «mer eller mindre distinkt terrengform (overflateform på land eller utforming av bunnen i saltvanns- eller ferskvannssystemer) som kan gis en felles karakteristikk på grunnlag av egenskaper som ofte er forårsaket av én enkelt eller en kombinasjon av distinkte landformdannende (geomorfologiske) prosesser»."
+    }
   },
   "NN-NA-BS-4": {
     "infoUrl": "https://artsdatabanken.no/Pages/182005",
-    "ingress": "Omfatter «fysisk observerbare, romlig avgrensete elementer som helt eller for det meste består av umodifiserte livsmedier og som ikke inngår i et natursystems vanlige bunn- eller marksystem»."
+    "ingress": {
+      "nb": "Omfatter «fysisk observerbare, romlig avgrensete elementer som helt eller for det meste består av umodifiserte livsmedier og som ikke inngår i et natursystems vanlige bunn- eller marksystem»."
+    }
   },
   "NN-NA-BS-5": {
     "infoUrl": "https://artsdatabanken.no/Pages/182004",
-    "ingress": "«Fysisk observerbare gjenstander som helt eller for det meste består av sterkt modifiserte eller syntetiske livsmedier og som er resultatet av menneskers virksomhet»."
+    "ingress": {
+      "nb": "«Fysisk observerbare gjenstander som helt eller for det meste består av sterkt modifiserte eller syntetiske livsmedier og som er resultatet av menneskers virksomhet»."
+    }
   },
   "NN-NA-BS-6": {
     "infoUrl": "https://artsdatabanken.no/Pages/182001",
-    "ingress": "Parallell variasjon i artssammensetning og makroklimafaktorer på grov romlig skala"
+    "ingress": {
+      "nb": "Parallell variasjon i artssammensetning og makroklimafaktorer på grov romlig skala"
+    }
   },
   "NN-NA-BS-6SE": {
     "farge": "rgb(50,67,253)",
     "infoUrl": "https://www.artsdatabanken.no/Pages/181900",
-    "ingress": "Denne regionale komplekse miljøvariabelen fanger opp både humiditet og oseanitet. Bioklimatiske seksjoner er en av de aller viktigste regionale komplekse miljøvariablene også på global skala, der spennvidden i vegetasjonsformasjoner fra regnskog via steppe til ørken fanges opp av sju bioklimatiske seksjoner.",
+    "ingress": {
+      "nb": "Denne regionale komplekse miljøvariabelen fanger opp både humiditet og oseanitet. Bioklimatiske seksjoner er en av de aller viktigste regionale komplekse miljøvariablene også på global skala, der spennvidden i vegetasjonsformasjoner fra regnskog via steppe til ørken fanges opp av sju bioklimatiske seksjoner."
+    },
     "kart": {
       "format": {
         "raster_gradient": {
@@ -74,7 +90,9 @@
   "NN-NA-BS-6SO": {
     "farge": "rgb(253,194,111)",
     "infoUrl": "https://www.artsdatabanken.no/Pages/181901",
-    "ingress": "Bioklimatiske soner (6SO), inkludert bioklimatiske soner i Arktis (6SX) er på global basis en av de aller viktigste regionale gradientkompleksene, som forklarer arters utbredelse, breddegradsbestemt fordeling av klimasoner (tropisk, subtropisk, temperert, arktisk) og dominerende livsform (lauvtrær, bartrær, områder uten trær).",
+    "ingress": {
+      "nb": "Bioklimatiske soner (6SO), inkludert bioklimatiske soner i Arktis (6SX) er på global basis en av de aller viktigste regionale gradientkompleksene, som forklarer arters utbredelse, breddegradsbestemt fordeling av klimasoner (tropisk, subtropisk, temperert, arktisk) og dominerende livsform (lauvtrær, bartrær, områder uten trær)."
+    },
     "kart": {
       "format": {
         "raster_gradient": {
@@ -94,11 +112,15 @@
   },
   "NN-NA-BS-7": {
     "infoUrl": "https://artsdatabanken.no/Pages/182008",
-    "ingress": "«Variasjon i miljøforhold som gir opphav til mønstre som er observerbare i et relativt kort tidsrom, typisk mindre enn 100(–200) år, og som ikke endrer det aktuelle systemets grunnleggende egenskaper, og den variasjonen i artssammensetning den gir opphav til»."
+    "ingress": {
+      "nb": "«Variasjon i miljøforhold som gir opphav til mønstre som er observerbare i et relativt kort tidsrom, typisk mindre enn 100(–200) år, og som ikke endrer det aktuelle systemets grunnleggende egenskaper, og den variasjonen i artssammensetning den gir opphav til»."
+    }
   },
   "NN-NA-BS-8": {
     "infoUrl": "https://artsdatabanken.no/Pages/182007",
-    "ingress": "Omfatter «variasjon i terrengets overflateformer som kan beskrives ved kontinuerlige variabler som for eksempel relativt relieff og terrengujevnhet»."
+    "ingress": {
+      "nb": "Omfatter «variasjon i terrengets overflateformer som kan beskrives ved kontinuerlige variabler som for eksempel relativt relieff og terrengujevnhet»."
+    }
   },
   "NN-NA-TI-F": {
     "farge": "hsl(183, 76%, 74%)"
@@ -149,14 +171,16 @@
     "tittel": {
       "nb": "Ingen"
     },
-    "ingress": "Kunnskap mangler fullstendig",
+    "ingress": { "nb": "Kunnskap mangler fullstendig" },
     "farge": "#ff0000"
   },
   "NN-NA-TI-HT-KG-GI1": {
     "tittel": {
       "nb": "Svært svak"
     },
-    "ingress": "Spekulasjon uten basis i observasjoner eller empiriske data",
+    "ingress": {
+      "nb": "Spekulasjon uten basis i observasjoner eller empiriske data"
+    },
     "farge": "#ff9933"
   },
   "NN-NA-TI-HT-KG-GI2": {
@@ -164,41 +188,49 @@
       "nb": "Svak"
     },
     "farge": "#ffcc66",
-    "ingress": "observasjon, ikke vitenskapelig dokumentert"
+    "ingress": { "nb": "observasjon, ikke vitenskapelig dokumentert" }
   },
   "NN-NA-TI-HT-KG-GI3": {
     "tittel": {
       "nb": "Akseptabel"
     },
     "farge": "#ffff66",
-    "ingress": "observasjon eller vitenskapelige data, vitenskapelig dokumentert"
+    "ingress": {
+      "nb": "observasjon eller vitenskapelige data, vitenskapelig dokumentert"
+    }
   },
   "NN-NA-TI-HT-KG-GI4": {
     "tittel": {
       "nb": "God"
     },
     "farge": "#b0ff61",
-    "ingress": "relevante empiriske data finnes, som er tilfredsstillende analysert"
+    "ingress": {
+      "nb": "relevante empiriske data finnes, som er tilfredsstillende analysert"
+    }
   },
   "NN-NA-TI-HT-KG-GI5": {
     "tittel": {
       "nb": "Sikker"
     },
     "farge": "#66ff33",
-    "ingress": "uttømmende og relevante empiriske data finnes, som er gjennomanalysert"
+    "ingress": {
+      "nb": "uttømmende og relevante empiriske data finnes, som er gjennomanalysert"
+    }
   },
   "NN-NA-TI-HT-KG0": {
     "tittel": {
       "nb": "Ingen"
     },
-    "ingress": "Kunnskap mangler fullstendig",
+    "ingress": { "nb": "Kunnskap mangler fullstendig" },
     "farge": "#ff0000"
   },
   "NN-NA-TI-HT-KG1": {
     "tittel": {
       "nb": "Svært svak"
     },
-    "ingress": "Spekulasjon uten basis i observasjoner eller empiriske data",
+    "ingress": {
+      "nb": "Spekulasjon uten basis i observasjoner eller empiriske data"
+    },
     "farge": "#ff9933"
   },
   "NN-NA-TI-HT-KG2": {
@@ -206,28 +238,34 @@
       "nb": "Svak"
     },
     "farge": "#ffcc66",
-    "ingress": "observasjon, ikke vitenskapelig dokumentert"
+    "ingress": { "nb": "observasjon, ikke vitenskapelig dokumentert" }
   },
   "NN-NA-TI-HT-KG3": {
     "tittel": {
       "nb": "Akseptabel"
     },
     "farge": "#ffff66",
-    "ingress": "observasjon eller vitenskapelige data, vitenskapelig dokumentert"
+    "ingress": {
+      "nb": "observasjon eller vitenskapelige data, vitenskapelig dokumentert"
+    }
   },
   "NN-NA-TI-HT-KG4": {
     "tittel": {
       "nb": "God"
     },
     "farge": "#b0ff61",
-    "ingress": "relevante empiriske data finnes, som er tilfredsstillende analysert"
+    "ingress": {
+      "nb": "relevante empiriske data finnes, som er tilfredsstillende analysert"
+    }
   },
   "NN-NA-TI-HT-KG5": {
     "tittel": {
       "nb": "Sikker"
     },
     "farge": "#66ff33",
-    "ingress": "uttømmende og relevante empiriske data finnes, som er gjennomanalysert"
+    "ingress": {
+      "nb": "uttømmende og relevante empiriske data finnes, som er gjennomanalysert"
+    }
   },
   "NN-NA-TI-I": {
     "farge": "hsl(180, 43%, 93%)"
