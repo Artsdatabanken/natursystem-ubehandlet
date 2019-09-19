@@ -86,6 +86,9 @@
     },
     "måleenhet": "indeks",
     "ingress": {
+      "nb": "En indeks for terrenguro som er relativt uavhengig av helningen."
+    },
+    "brødtekst": {
       "nb": "1– |r|, der r er relativ lengde av resultant-enhetsvektoren loddrett på bakkeplanet, beregnet for et målenabolag på 3 × 3 punkter og summert oppfor et område omkring fokuspunktet i sentrum [=vector ruggedness index (VRI)]; 8TU er en indeks for terrenguro som er relativt uavhengig av helningen (Hobson 1972, Sappington et al. 2007); tilgjengelig som skript for arcGIS (http://www.esri.com/arcscripts) (verdi for en arealenhet kan angis for et representativt punkt eller beregnes som en funksjon, f.eks. gjennomsnittet eller medianen, av verdier for alle punkter innenfor arealenheten)"
     },
     "type": "gradient_uten_barn"
