@@ -600,12 +600,11 @@
             "normalisertVerdi": [0, 255],
             "original": [0, 2550]
           },
-          "visning": ["kontinuerlig"]
+          "visning": ["avstand"]
         }
       }
     },
-    "måleenhet": "meter",
-    "type": "gradient_uten_barn"
+    "måleenhet": "meter"
   },
   "NN-NA-TI-F1": {
     "farge": "hsl(220, 56%, 54%)",
@@ -617,11 +616,10 @@
             "normalisertVerdi": [0, 255],
             "original": [0, 2550]
           },
-          "visning": ["kontinuerlig"]
+          "visning": ["avstand"]
         }
       }
     },
-    "måleenhet": "meter",
-    "type": "gradient_uten_barn"
+    "måleenhet": "meter"
   }
 }
