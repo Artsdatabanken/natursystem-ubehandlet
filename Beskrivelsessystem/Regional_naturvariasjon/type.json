@@ -26,12 +26,30 @@
     "farge": "#fff",
     "farge0": "#ff0",
     "palett": [
-      { "level": 0, "color": "#fff" },
-      { "level": 1, "color": "#def" },
-      { "level": 64, "color": "#bbb" },
-      { "level": 128, "color": "#fed" },
-      { "level": 192, "color": "#fff" },
-      { "level": 255, "color": "#def" }
+      {
+        "color": "#fff",
+        "level": 0
+      },
+      {
+        "color": "#def",
+        "level": 1
+      },
+      {
+        "color": "#bbb",
+        "level": 64
+      },
+      {
+        "color": "#fed",
+        "level": 128
+      },
+      {
+        "color": "#fff",
+        "level": 192
+      },
+      {
+        "color": "#def",
+        "level": 255
+      }
     ],
     "kart": {
       "format": {
