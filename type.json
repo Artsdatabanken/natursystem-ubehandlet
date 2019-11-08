@@ -91,6 +91,9 @@
       "nb": "Bioklimatisk seksjon"
     }
   },
+  "NN-NA-BS-3TO": {
+    "tittel": { "nb": "Torvmarksform" }
+  },
   "NN-NA-BS-6SO": {
     "farge": "rgb(253,194,111)",
     "infoUrl": "https://www.artsdatabanken.no/Pages/181901",
