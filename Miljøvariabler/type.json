@@ -103,66 +103,30 @@
     "type": "gradient"
   },
   "NN-NA-LKM-KA-A": {
-    "normalisertVerdi": [
-      0,
-      28
-    ],
     "farge": "hsl(60, 44%, 95%)"
   },
   "NN-NA-LKM-KA-B": {
-    "normalisertVerdi": [
-      28,
-      56
-    ],
     "farge": "hsl(53, 49%, 90%)"
   },
   "NN-NA-LKM-KA-C": {
-    "normalisertVerdi": [
-      56,
-      84
-    ],
     "farge": "hsl(46, 54%, 85%)"
   },
   "NN-NA-LKM-KA-D": {
-    "normalisertVerdi": [
-      84,
-      112
-    ],
     "farge": "hsl(39, 59%, 80%)"
   },
   "NN-NA-LKM-KA-E": {
-    "normalisertVerdi": [
-      112,
-      140
-    ],
     "farge": "hsl(33, 63%, 75%)"
   },
   "NN-NA-LKM-KA-F": {
-    "normalisertVerdi": [
-      140,
-      168
-    ],
     "farge": "hsl(26, 68%, 70%)"
   },
   "NN-NA-LKM-KA-G": {
-    "normalisertVerdi": [
-      168,
-      196
-    ],
     "farge": "hsl(19, 73%, 65%)"
   },
   "NN-NA-LKM-KA-H": {
-    "normalisertVerdi": [
-      196,
-      224
-    ],
     "farge": "hsl(12, 78%, 60%)"
   },
   "NN-NA-LKM-KA-I": {
-    "normalisertVerdi": [
-      224,
-      252
-    ],
     "farge": "hsl(5, 83%, 55%)"
   },
   "NN-NA-LKM-KI": {
