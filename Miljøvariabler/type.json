@@ -103,30 +103,66 @@
     "type": "gradient"
   },
   "NN-NA-LKM-KA-A": {
+    "normalisertVerdi": [
+      0,
+      28
+    ],
     "farge": "hsl(60, 44%, 95%)"
   },
   "NN-NA-LKM-KA-B": {
+    "normalisertVerdi": [
+      28,
+      56
+    ],
     "farge": "hsl(53, 49%, 90%)"
   },
   "NN-NA-LKM-KA-C": {
+    "normalisertVerdi": [
+      56,
+      84
+    ],
     "farge": "hsl(46, 54%, 85%)"
   },
   "NN-NA-LKM-KA-D": {
+    "normalisertVerdi": [
+      84,
+      112
+    ],
     "farge": "hsl(39, 59%, 80%)"
   },
   "NN-NA-LKM-KA-E": {
+    "normalisertVerdi": [
+      112,
+      140
+    ],
     "farge": "hsl(33, 63%, 75%)"
   },
   "NN-NA-LKM-KA-F": {
+    "normalisertVerdi": [
+      140,
+      168
+    ],
     "farge": "hsl(26, 68%, 70%)"
   },
   "NN-NA-LKM-KA-G": {
+    "normalisertVerdi": [
+      168,
+      196
+    ],
     "farge": "hsl(19, 73%, 65%)"
   },
   "NN-NA-LKM-KA-H": {
+    "normalisertVerdi": [
+      196,
+      224
+    ],
     "farge": "hsl(12, 78%, 60%)"
   },
   "NN-NA-LKM-KA-I": {
+    "normalisertVerdi": [
+      224,
+      252
+    ],
     "farge": "hsl(5, 83%, 55%)"
   },
   "NN-NA-LKM-KI": {
@@ -210,10 +246,18 @@
       "format": {
         "raster_gradient": {
           "intervall": {
-            "normalisertVerdi": [0, 255],
-            "original": [0, 10000]
+            "normalisertVerdi": [
+              0,
+              255
+            ],
+            "original": [
+              0,
+              10000
+            ]
           },
-          "visning": ["klasser"]
+          "visning": [
+            "klasser"
+          ]
         }
       }
     },
@@ -242,7 +286,9 @@
   },
   "NN-NA-LKM-S3-E-0": {
     "farge": "#fff7f3",
-    "ingress": { "nb": "suspensjon" },
+    "ingress": {
+      "nb": "suspensjon"
+    },
     "intervall": [
       {
         "max": 0.0625,
@@ -252,7 +298,10 @@
         "måleenhet": "mm"
       }
     ],
-    "normalisertVerdi": [0, 35],
+    "normalisertVerdi": [
+      0,
+      35
+    ],
     "sortering": 1,
     "tittel": {
       "nb": "ingen erosjonsmotstand"
@@ -260,7 +309,9 @@
   },
   "NN-NA-LKM-S3-E-a": {
     "farge": "#fde0dd",
-    "ingress": { "nb": "fin og middels sand, løst mudder" },
+    "ingress": {
+      "nb": "fin og middels sand, løst mudder"
+    },
     "intervall": [
       {
         "max": 0.5,
@@ -271,7 +322,10 @@
         "tittel": "fin og middels sand; løst mudder"
       }
     ],
-    "normalisertVerdi": [36, 72],
+    "normalisertVerdi": [
+      36,
+      72
+    ],
     "sortering": 2,
     "tittel": {
       "nb": "svært liten erosjonsmotstand"
@@ -279,7 +333,9 @@
   },
   "NN-NA-LKM-S3-E-b": {
     "farge": "#fcc5c0",
-    "ingress": { "nb": "grov silt; grov sand" },
+    "ingress": {
+      "nb": "grov silt; grov sand"
+    },
     "intervall": [
       {
         "max": 0.0625,
@@ -298,7 +354,10 @@
         "tittel": "grov sand"
       }
     ],
-    "normalisertVerdi": [73, 109],
+    "normalisertVerdi": [
+      73,
+      109
+    ],
     "sortering": 3,
     "tittel": {
       "nb": "temmelig liten erosjonsmotstand"
@@ -306,7 +365,9 @@
   },
   "NN-NA-LKM-S3-E-c": {
     "farge": "#fa9fb5",
-    "ingress": { "nb": "fin og middels silt; fin og middels grus" },
+    "ingress": {
+      "nb": "fin og middels silt; fin og middels grus"
+    },
     "intervall": [
       {
         "max": 0.25,
@@ -325,7 +386,10 @@
         "tittel": "fin og middels grus"
       }
     ],
-    "normalisertVerdi": [109, 145],
+    "normalisertVerdi": [
+      109,
+      145
+    ],
     "sortering": 4,
     "tittel": {
       "nb": "intermediær erosjonsmotstand"
@@ -333,7 +397,9 @@
   },
   "NN-NA-LKM-S3-E-d": {
     "farge": "#f768a1",
-    "ingress": { "nb": "leire; grov grus" },
+    "ingress": {
+      "nb": "leire; grov grus"
+    },
     "intervall": [
       {
         "max": 0.001953,
@@ -352,7 +418,10 @@
         "tittel": "grov grus"
       }
     ],
-    "normalisertVerdi": [145, 181],
+    "normalisertVerdi": [
+      145,
+      181
+    ],
     "sortering": 5,
     "tittel": {
       "nb": "temmelig stor erosjonsmotstand"
@@ -360,7 +429,9 @@
   },
   "NN-NA-LKM-S3-E-e": {
     "farge": "#dd3497",
-    "ingress": { "nb": "fast leire; stein" },
+    "ingress": {
+      "nb": "fast leire; stein"
+    },
     "intervall": [
       {
         "max": 0.001953,
@@ -379,7 +450,10 @@
         "tittel": "grov grus"
       }
     ],
-    "normalisertVerdi": [181, 217],
+    "normalisertVerdi": [
+      181,
+      217
+    ],
     "sortering": 6,
     "tittel": {
       "nb": "stor erosjonsmotstand"
@@ -387,7 +461,9 @@
   },
   "NN-NA-LKM-S3-E-f": {
     "farge": "#ae017e",
-    "ingress": { "nb": "blokker" },
+    "ingress": {
+      "nb": "blokker"
+    },
     "intervall": [
       {
         "max": 4096,
@@ -398,7 +474,10 @@
         "tittel": "blokker"
       }
     ],
-    "normalisertVerdi": [218, 255],
+    "normalisertVerdi": [
+      218,
+      255
+    ],
     "sortering": 7,
     "tittel": {
       "nb": "svært stor erosjonsmotstand"
@@ -413,10 +492,18 @@
       "format": {
         "raster_gradient": {
           "intervall": {
-            "normalisertVerdi": [0, 255],
-            "original": [0, 1]
+            "normalisertVerdi": [
+              0,
+              255
+            ],
+            "original": [
+              0,
+              1
+            ]
           },
-          "visning": ["klasser"]
+          "visning": [
+            "klasser"
+          ]
         }
       }
     },
@@ -428,7 +515,9 @@
   },
   "NN-NA-LKM-S3-F-0": {
     "farge": "#ffffcc",
-    "ingress": { "nb": "suspensjon av løst finpartikulært materiale" },
+    "ingress": {
+      "nb": "suspensjon av løst finpartikulært materiale"
+    },
     "intervall": {
       "max": 0.01,
       "maxTekst": "1",
@@ -436,7 +525,10 @@
       "minTekst": "",
       "måleenhet": "% vektandel"
     },
-    "normalisertVerdi": [0, 63],
+    "normalisertVerdi": [
+      0,
+      63
+    ],
     "sortering": 1,
     "tittel": {
       "nb": "uten finmateriale"
@@ -444,7 +536,9 @@
   },
   "NN-NA-LKM-S3-F-a": {
     "farge": "#c2e699",
-    "ingress": { "nb": "suspensjon" },
+    "ingress": {
+      "nb": "suspensjon"
+    },
     "intervall": {
       "max": 0.1,
       "maxTekst": "10",
@@ -452,7 +546,10 @@
       "minTekst": "1",
       "måleenhet": "% vektandel"
     },
-    "normalisertVerdi": [64, 126],
+    "normalisertVerdi": [
+      64,
+      126
+    ],
     "sortering": 2,
     "tittel": {
       "nb": "finmaterialfattig"
@@ -460,7 +557,9 @@
   },
   "NN-NA-LKM-S3-F-b": {
     "farge": "#78c679",
-    "ingress": { "nb": "suspensjon" },
+    "ingress": {
+      "nb": "suspensjon"
+    },
     "intervall": {
       "max": 0.3,
       "maxTekst": "30",
@@ -468,7 +567,10 @@
       "minTekst": "10",
       "måleenhet": "% vektandel"
     },
-    "normalisertVerdi": [127, 190],
+    "normalisertVerdi": [
+      127,
+      190
+    ],
     "sortering": 2,
     "tittel": {
       "nb": "litt finmaterialrik"
@@ -476,7 +578,9 @@
   },
   "NN-NA-LKM-S3-F-c": {
     "farge": "#31a354",
-    "ingress": { "nb": "suspensjon" },
+    "ingress": {
+      "nb": "suspensjon"
+    },
     "intervall": {
       "max": 0.6,
       "maxTekst": "60",
@@ -484,7 +588,10 @@
       "minTekst": "30",
       "måleenhet": "% vektandel"
     },
-    "normalisertVerdi": [191, 253],
+    "normalisertVerdi": [
+      191,
+      253
+    ],
     "sortering": 3,
     "tittel": {
       "nb": "temmelig finmaterialrik"
@@ -492,7 +599,9 @@
   },
   "NN-NA-LKM-S3-F-¤": {
     "farge": "#006837",
-    "ingress": { "nb": "suspensjon" },
+    "ingress": {
+      "nb": "suspensjon"
+    },
     "intervall": {
       "max": 1,
       "maxTekst": "",
@@ -500,7 +609,10 @@
       "minTekst": "60",
       "måleenhet": "% vektandel"
     },
-    "normalisertVerdi": [254, 255],
+    "normalisertVerdi": [
+      254,
+      255
+    ],
     "sortering": 4,
     "tittel": {
       "nb": "finmaterialdominert"
