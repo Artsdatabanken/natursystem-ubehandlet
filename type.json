@@ -6,10 +6,14 @@
     "tittel": {
       "nb": "Natursystem"
     },
-    "kart": { "målestokk": 20000 }
+    "kart": {
+      "målestokk": 20000
+    }
   },
   "NN-NA-TI": {
-    "tittel": { "nb": "Typeinndeling" },
+    "tittel": {
+      "nb": "Typeinndeling"
+    },
     "sortering": 1,
     "relasjon": [
       {
@@ -87,6 +91,9 @@
       "nb": "Bioklimatisk seksjon"
     }
   },
+  "NN-NA-BS-3TO": {
+    "url": "Torvmarksform"
+  },
   "NN-NA-BS-6SO": {
     "farge": "rgb(253,194,111)",
     "infoUrl": "https://www.artsdatabanken.no/Pages/181901",
@@ -121,9 +128,6 @@
     "ingress": {
       "nb": "Omfatter «variasjon i terrengets overflateformer som kan beskrives ved kontinuerlige variabler som for eksempel relativt relieff og terrengujevnhet»."
     }
-  },
-  "NN-NA-TI-F": {
-    "farge": "hsl(183, 76%, 74%)"
   },
   "NN-NA-TI-F2": {
     "farge": "hsl(113, 7%, 65%)"
@@ -166,12 +170,13 @@
     "type": "gradient",
     "infoUrl": "https://www.artsdatabanken.no/Files/14541/NiNs_systemkjerne__teori,_prinsipper_og_inndelingskriterier_(versjon_2.1.0)"
   },
-
   "NN-NA-TI-HT-KG-GI0": {
     "tittel": {
       "nb": "Ingen"
     },
-    "ingress": { "nb": "Kunnskap mangler fullstendig" },
+    "ingress": {
+      "nb": "Kunnskap mangler fullstendig"
+    },
     "farge": "#ff0000"
   },
   "NN-NA-TI-HT-KG-GI1": {
@@ -188,7 +193,9 @@
       "nb": "Svak"
     },
     "farge": "#ffcc66",
-    "ingress": { "nb": "observasjon, ikke vitenskapelig dokumentert" }
+    "ingress": {
+      "nb": "observasjon, ikke vitenskapelig dokumentert"
+    }
   },
   "NN-NA-TI-HT-KG-GI3": {
     "tittel": {
@@ -221,7 +228,9 @@
     "tittel": {
       "nb": "Ingen"
     },
-    "ingress": { "nb": "Kunnskap mangler fullstendig" },
+    "ingress": {
+      "nb": "Kunnskap mangler fullstendig"
+    },
     "farge": "#ff0000"
   },
   "NN-NA-TI-HT-KG1": {
@@ -238,7 +247,9 @@
       "nb": "Svak"
     },
     "farge": "#ffcc66",
-    "ingress": { "nb": "observasjon, ikke vitenskapelig dokumentert" }
+    "ingress": {
+      "nb": "observasjon, ikke vitenskapelig dokumentert"
+    }
   },
   "NN-NA-TI-HT-KG3": {
     "tittel": {
@@ -581,5 +592,37 @@
   },
   "NN-NA-TI-V9": {
     "farge": "hsl(54, 12%, 72%)"
+  },
+  "NN-NA-TI-F": {
+    "farge": "hsl(220, 56%, 54%)",
+    "farge0": "#fff",
+    "kart": {
+      "format": {
+        "raster_gradient": {
+          "intervall": {
+            "normalisertVerdi": [0, 255],
+            "original": [0, 2550]
+          },
+          "visning": ["avstand"]
+        }
+      }
+    },
+    "måleenhet": "meter"
+  },
+  "NN-NA-TI-F1": {
+    "farge": "hsl(220, 56%, 54%)",
+    "farge0": "#fff",
+    "kart": {
+      "format": {
+        "raster_gradient": {
+          "intervall": {
+            "normalisertVerdi": [0, 255],
+            "original": [0, 2550]
+          },
+          "visning": ["avstand"]
+        }
+      }
+    },
+    "måleenhet": "meter"
   }
 }
