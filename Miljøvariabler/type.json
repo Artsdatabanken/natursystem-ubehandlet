@@ -21,7 +21,16 @@
   },
   "NN-NA-LKM-BK": {
     "farge": "hsl(270,70%, 60%)",
-    "type": "flagg"
+    "type": "flagg",
+    "kart": {
+      "tegn": {
+        "punkt": [
+          [0, 7],
+          [5, 7],
+          [10, 0]
+        ]
+      }
+    }
   },
   "NN-NA-LKM-DD": {
     "type": "flagg"
