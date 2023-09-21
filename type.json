@@ -95,7 +95,9 @@
     }
   },
   "NN-NA-BS-3TO": {
-    "url": "Torvmarksform"
+    "tittel": {
+      "url": "Torvmarksform"
+    }
   },
   "NN-NA-BS-6SO": {
     "farge": "rgb(253,194,111)",
